@@ -1,0 +1,9 @@
+After studying the philosophy about money by going through "the attribute of money" we may go ahead with the
+following topics.
+1. Fundamental Analysis :  We learn how to use google to look for finance related websites. By looking at the websites
+like marketwatch.com, yahoo finance.com, we learn how to get information about the firms that we are interested in. 
+Especially we learn about how to evaluate value stocks and growth stocks. 
+2. Chart Analysis : We learn that we get so much information through chart reading and many chart oriented indicators.
+3. Python : we have to learn Python because we have to form a portfolio more rationally and do back-test to make 
+sure that our timing strategy is adequate. Actually we learn Python to use the codes that are available in the Google. 
+4. Practical portfolio optimizaztion and strategy back-testing using Python. 
