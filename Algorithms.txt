@@ -7,3 +7,12 @@ Especially we learn about how to evaluate value stocks and growth stocks.
 3. Python : we have to learn Python because we have to form a portfolio more rationally and do back-test to make 
 sure that our timing strategy is adequate. Actually we learn Python to use the codes that are available in the Google. 
 4. Practical portfolio optimizaztion and strategy back-testing using Python. 
+
+
+After finishing this session we may go ahead with some advanced topics in the next session.  For example the next session 
+introduces momentum strategies and mean-reversion strategies.  I wrote a few empirical articles on mean-reversion strategies
+in the Korean Stock Market and found mean-reversion strategies are quite effective for Korean value stocks. According to the
+back-test results, I came up with an practical idea to invest in Korean Stock and the current rate of return is 40% per
+annum. Next step that I want to implement is pairs trading strategy.  I am studying on this topic more throughly!  And if I
+came up with a better pairs trading strategies, then I would start my own investing.  All these stuffs will be taught in the
+next session.
