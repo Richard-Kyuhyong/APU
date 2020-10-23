@@ -26,4 +26,5 @@ more conficence.
 
 2020-10-23-1
 In summary,  I can teach four subjects 1.Investment, 2. advanced investment. 3. advanced python for finance, 4. machine
-learning and deep learning.  
+learning and deep learningfor finance.  If I could add another topic, then that would be portfolio optimization and 
+performance measure
