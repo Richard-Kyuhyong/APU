@@ -14,5 +14,12 @@ introduces momentum strategies and mean-reversion strategies.  I wrote a few emp
 in the Korean Stock Market and found mean-reversion strategies are quite effective for Korean value stocks. According to the
 back-test results, I came up with an practical idea to invest in Korean Stock and the current rate of return is 40% per
 annum. Next step that I want to implement is pairs trading strategy.  I am studying on this topic more throughly!  And if I
-came up with a better pairs trading strategies, then I would start my own investing.  All these stuffs will be taught in the
+could come up with a better pairs trading strategies, then I would start my own investing.  All these stuffs will be taught in the
 next session.
+
+
+For this advanced sessions, the students are required to study Python more throughly.  For an advanced Python programming, 
+a Python learning session that concentraes on finance application and machine learning will be taught that uses Tensorflow! 
+If necessary a class that concentrates on deep learning can also be held. As all the sessions concentrate on stock price 
+forecasting, the investment scheme that the students learned in the previous sessions are supposed to do investment with
+more conficence. 
